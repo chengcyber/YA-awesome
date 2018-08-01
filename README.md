@@ -108,7 +108,7 @@
   - [Write your Virtual DOM 2: Props & Events](https://medium.com/@deathmood/write-your-virtual-dom-2-props-events-a957608f5c76) :surfer:
   - [How Virtual-DOM and diffing works in React](https://medium.com/@gethylgeorge/how-virtual-dom-and-diffing-works-in-react-6fc805f9f84e) :surfer:
   - [The inner workings of virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf) :surfer:
-  - [深度婆媳：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13) :surfer:
+  - [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13) :surfer:
   - [Matt-Esch/Virtual-DOM](https://github.com/Matt-Esch/virtual-dom) :surfer:
   - [maquette(Virtual DOM lib)](https://github.com/AFASSoftware/maquette) :surfer:
 
