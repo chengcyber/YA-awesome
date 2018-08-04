@@ -119,7 +119,7 @@
 ## HTTP/2
 
   - [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2) :surfer:
-  - [http2 explained](https://daniel.haxx.se/http2/) :books
+  - [http2 explained](https://daniel.haxx.se/http2/) :books:
   - [Gitbook - HTTP/2 讲解](https://ye11ow.gitbooks.io/http2-explained/content/) :books:
   - [HTTP/2 for a Faster Web](https://cascadingmedia.com/insites/2015/03/http-2.html) :surfer:
   - [Nginx HTTP/2 White Paper](https://cdn-1.wp.nginx.com/wp-content/uploads/2015/09/NGINX_HTTP2_White_Paper_v4.pdf) :books:
