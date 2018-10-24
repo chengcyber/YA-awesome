@@ -12,6 +12,7 @@
 
 # HTML
 
+  - [HTML Spec](https://html.spec.whatwg.org/multipage/parsing.html#overview-of-the-parsing-model) :school:
   - [HTML5 权威指南](https://book.douban.com/subject/25786074/) :books:
   - [HTML5 Canvas 核心技术](https://book.douban.com/subject/24533314/) :books:
   - [SVG: Scalable Vector Graphics](https://developer.mozilla.org/en-US/docs/Web/SVG) :school:
@@ -58,6 +59,7 @@
   - [JavaScript: The Good Parts](https://book.douban.com/subject/3590768/) : :books:
   - [Secrets of the JavaScript Ninjia](https://book.douban.com/subject/3176860/) :books:
   - [Effective JavaScript](https://book.douban.com/subject/25786138/) :books:
+  - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :tv
 
 ## ES6
 
@@ -106,6 +108,8 @@
 
 # Browser
 
+  - [Inside look at mordern web browser (part 1/4)](https://developers.google.com/web/updates/2018/09/inside-browser-part1) :surfer:
+  - [Page Lifecycle API](https://developers.google.com/web/updates/2018/07/page-lifecycle-api#overview_of_page_lifecycle_states_and_events) :surfer:
   - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) :books:
   - [浏览器的渲染原理简介](https://coolshell.cn/articles/9666.html) :surfer:
   - [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060) :surfer:
