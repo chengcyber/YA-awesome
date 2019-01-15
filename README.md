@@ -64,6 +64,9 @@
 ## Compilation
 
   - [Gentle introduction into compilers](https://medium.com/dailyjs/gentle-introduction-into-compilers-part-1-lexical-analysis-and-scanner-733246be6738) :surfer:
+  - [Stanford CS143: Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) :school:
+  - [Engineering: A Compiler](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X) :book:
+  - [Ecma-262](https://www.ecma-international.org/ecma-262/8.0/index.html#sec-ecmascript-language-lexical-grammar) :books:
 
 ## ES6
 
