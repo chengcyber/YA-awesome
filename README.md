@@ -59,7 +59,7 @@
   - [JavaScript: The Good Parts](https://book.douban.com/subject/3590768/) : :books:
   - [Secrets of the JavaScript Ninjia](https://book.douban.com/subject/3176860/) :books:
   - [Effective JavaScript](https://book.douban.com/subject/25786138/) :books:
-  - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :tv
+  - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :tv:
 
 ## ES6
 
