@@ -61,6 +61,10 @@
   - [Effective JavaScript](https://book.douban.com/subject/25786138/) :books:
   - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) :tv:
 
+## Compilation
+
+  - [Gentle introduction into compilers](https://medium.com/dailyjs/gentle-introduction-into-compilers-part-1-lexical-analysis-and-scanner-733246be6738) :surfer:
+
 ## ES6
 
   - [ES6 in depth](https://hacks.mozilla.org/category/es6-in-depth/) :surfer:
